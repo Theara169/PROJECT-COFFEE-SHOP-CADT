@@ -11,7 +11,7 @@ This README describes what the team plans to build.
 
 During busy hours, staff may miss calls or messages. Customers may have to wait for answers about prices, availability, or pickup times. Staff may also record incomplete orders if requests arrive through several channels.
 
-Tube Coffee gives customers a self-service ordering website and lets staff run the shop from one dashboard. The storefront, chat assistant, and voice assistant use the same menu and order data. If an admin changes a price or marks a drink sold out, every channel should use the updated information.
+code cup Coffee gives customers a self-service ordering website and lets staff run the shop from one dashboard. The storefront, chat assistant, and voice assistant use the same menu and order data. If an admin changes a price or marks a drink sold out, every channel should use the updated information.
 
 ## 2. First release
 
@@ -107,7 +107,7 @@ Start with a hosted model, instructions, approved FAQs, and backend tools. Evalu
 
 Example staff note:
 
-![Tube Coffee system architecture](https://res.cloudinary.com/t6wyjwqt/image/upload/v1794985098/mermaid-diagram.png)
+![code cup Coffee system architecture](https://res.cloudinary.com/t6wyjwqt/image/upload/v1794985098/mermaid-diagram.png)
 
 > Two large iced lattes, one with 25% sugar. Preferred pickup at 3:30 p.m. The caller confirmed the details. Awaiting staff review.
 
