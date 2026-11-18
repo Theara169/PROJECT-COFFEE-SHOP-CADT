@@ -1,4 +1,4 @@
-# Tube Coffee
+# code cup Coffee
 
 **Capstone project proposal and requirements**
 
