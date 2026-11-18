@@ -2,10 +2,10 @@
 
 **Capstone project proposal and requirements**
 
-Tube Coffee is an online coffee shop where customers can browse the menu, order drinks for pickup, pay through ABA PayWay, and track their orders. Staff use an admin dashboard to manage the menu, website content, orders, and customer messages. An AI assistant answers common questions over chat and can take a pickup request over the phone, read it back to the customer, and send the details to staff for review.
+code cup Coffee is an online coffee shop where customers can browse the menu, order drinks for pickup, pay through ABA PayWay, and track their orders. Staff use an admin dashboard to manage the menu, website content, orders, and customer messages. An AI assistant answers common questions over chat and can take a pickup request over the phone, read it back to the customer, and send the details to staff for review.
 
 This README describes what the team plans to build.
-![Tube Coffee system architecture](https://res.cloudinary.com/t6wyjwqt/image/upload/v1794985137/tube-coffee-realtime-architecture.png)
+![Tube Coffee system architecture](https://res.cloudinary.com/t6wyjwqt/image/upload/v1794990480/code-cup-coffee-realtime-architecture.png)
 
 ## 1. Problem and objectives
 
